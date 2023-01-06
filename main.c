@@ -8,5 +8,6 @@ int main()
 	}
 	print("docker");
 	print("print");
+	print("scanf");
 	return 0;
 }
