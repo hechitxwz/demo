@@ -6,6 +6,7 @@ int main()
 	scanf("%d",&a);
 	print("请输入第二个数字:");
 	scanf("%d",&b);
-	print("\n结果::::%d",a+b);
+	print("\n结果:%d",a+b);
+	print("\n结果:%d",a+b);
 	return 0;
 }
