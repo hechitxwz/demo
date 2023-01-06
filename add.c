@@ -7,5 +7,6 @@ int main()
 	print("请输入第二个数字:");
 	scanf("%d",&b);
 	print("\n结果:%d",a+b);
+	print("a");
 	return 0;
 }
